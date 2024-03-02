@@ -43,7 +43,7 @@ Our project, **Health Diagnostics**, aims to harness the potential of ML and LLM
 - **Fractures and Bone Abnormalities**: X-rays are commonly used to detect fractures, bone tumors, and other skeletal abnormalities.
 - **Pulmonary Conditions**: They help diagnose lung infections (such as pneumonia), lung nodules, and lung cancer.
 - **Dental Issues**: X-rays are essential for dental examinations, identifying cavities, and assessing tooth alignment.
-  ![X-ray]('https://github.com/NishaantKrSingh/healthDiagnosis-HackNITR/blob/main/ml-api/medical_report_overview/img/fracture.jpg?raw=true')
+  ![X-ray](https://github.com/NishaantKrSingh/healthDiagnosis-HackNITR/blob/main/ml-api/medical_report_overview/img/fracture.jpg?raw=true)
 
 #### 2.2 MRI (Magnetic Resonance Imaging):
 
@@ -51,7 +51,7 @@ Our project, **Health Diagnostics**, aims to harness the potential of ML and LLM
 - **Brain Tumors and Lesions**: It is valuable for detecting brain tumors, aneurysms, and multiple sclerosis.
 - **Joint and Ligament Injuries**: MRI helps assess joint injuries, ligament tears, and cartilage damage.
 - **Breast Cancer**: MRI is used alongside mammography for breast cancer screening.
-  ![MRI]('https://github.com/NishaantKrSingh/healthDiagnosis-HackNITR/blob/main/ml-api/medical_report_overview/img/Brain_tumor.jpg?raw=true')
+  ![MRI](https://github.com/NishaantKrSingh/healthDiagnosis-HackNITR/blob/main/ml-api/medical_report_overview/img/Brain_tumor.jpg?raw=true)
 
 #### 2.3 CT (Computed Tomography) Scans:
 
@@ -59,7 +59,7 @@ Our project, **Health Diagnostics**, aims to harness the potential of ML and LLM
 - **Cancer Staging**: They help stage cancers, assess tumor size, and identify metastases.
 - **Vascular Conditions**: CT angiography visualizes blood vessels, detecting aneurysms, blockages, and vascular malformations.
 - **Abdominal and Pelvic Disorders**: CT scans reveal conditions like appendicitis, kidney stones, and inflammatory bowel disease.
-  ![CT Scan]('https://github.com/NishaantKrSingh/healthDiagnosis-HackNITR/blob/main/ml-api/medical_report_overview/img/ct.jpg?raw=true')
+  ![CT Scan](https://github.com/NishaantKrSingh/healthDiagnosis-HackNITR/blob/main/ml-api/medical_report_overview/img/ct.jpg?raw=true)
 
 #### 2.4 Ultrasound:
 
@@ -67,14 +67,14 @@ Our project, **Health Diagnostics**, aims to harness the potential of ML and LLM
 - **Gallstones and Liver Abnormalities**: It detects gallstones, liver cysts, and tumors.
 - **Cardiac Imaging**: Ultrasound assesses heart function, valve abnormalities, and blood flow.
 - **Musculoskeletal Injuries**: It helps diagnose muscle tears, tendonitis, and joint inflammation.
-  ![XUltreasound]('https://github.com/NishaantKrSingh/healthDiagnosis-HackNITR/blob/main/ml-api/medical_report_overview/img/ultrasound.png?raw=true')
+  ![XUltreasound](https://github.com/NishaantKrSingh/healthDiagnosis-HackNITR/blob/main/ml-api/medical_report_overview/img/ultrasound.png?raw=true)
 
 #### 2.5 Dermatographic Imaging:
 
 - **Skin Disorders**: Dermatographic imaging aids in diagnosing skin conditions, such as rashes, moles, and skin cancers.
 - **Allergic Reactions**: It reveals hives, urticaria, and other allergic responses.
 - **Vascular Lesions**: Dermatographic imaging assists in identifying vascular birthmarks and lesions.
-  ![Dermatographic]('https://github.com/NishaantKrSingh/healthDiagnosis-HackNITR/blob/main/ml-api/medical_report_overview/img/skin_cancer.png?raw=true')
+  ![Dermatographic](https://github.com/NishaantKrSingh/healthDiagnosis-HackNITR/blob/main/ml-api/medical_report_overview/img/skin_cancer.png?raw=true)
 
 ### 3. Problem Statement:
 
