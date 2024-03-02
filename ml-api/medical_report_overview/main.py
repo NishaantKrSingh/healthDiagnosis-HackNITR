@@ -7,18 +7,9 @@ from google_generativeai import GeminiClient
 load_dotenv()
 
 def describe_image(image_path):
-    """
-    Describes the content of an image using the Google Gemini API.
-
-    Args:
-        image_path (str): Path to the image file.
-
-    Returns:
-        str: Description of the image content.
-    """
     try:
         # Describe content using Google API
-        prompt = "What is in the image?"
+        prompt = "Can you explain this in simple words."
         response = GeminiClient.generate_content(prompt, image_path=image_path)
 
         # Extract the description
@@ -40,5 +31,8 @@ def upload_image():
     except Exception as e:
         print(f"Error: {str(e)}")
 
-if __name__ == "__main__":
+def main():
     upload_image()
+
+if __name__ == "__main__":
+    main()
