@@ -1,7 +1,3 @@
-Certainly! Here's the complete project report:
-
----
-
 # HackNITR Project Report
 
 ## Team Name: **Lapers**
@@ -12,7 +8,7 @@ Certainly! Here's the complete project report:
 2. **Nishant Kumar** (Frontend Developer)
 3. **Priyanshu Kushwaha** (Python Developer)
 
-## Project Title: **Health Diagnostics**
+## Project Title: **Self help health diagnosis from images**
 
 ### 1. Introduction:
 
@@ -43,7 +39,7 @@ Our project, **Health Diagnostics**, aims to harness the potential of ML and LLM
 - **Fractures and Bone Abnormalities**: X-rays are commonly used to detect fractures, bone tumors, and other skeletal abnormalities.
 - **Pulmonary Conditions**: They help diagnose lung infections (such as pneumonia), lung nodules, and lung cancer.
 - **Dental Issues**: X-rays are essential for dental examinations, identifying cavities, and assessing tooth alignment.
-  ![X-ray]('ml-api\medical_report_overview\img\fracture.jpg')
+  ![X-ray](https://github.com/NishaantKrSingh/healthDiagnosis-HackNITR/blob/main/ml-api/medical_report_overview/img/fracture.jpg?raw=true)
 
 #### 2.2 MRI (Magnetic Resonance Imaging):
 
@@ -51,7 +47,7 @@ Our project, **Health Diagnostics**, aims to harness the potential of ML and LLM
 - **Brain Tumors and Lesions**: It is valuable for detecting brain tumors, aneurysms, and multiple sclerosis.
 - **Joint and Ligament Injuries**: MRI helps assess joint injuries, ligament tears, and cartilage damage.
 - **Breast Cancer**: MRI is used alongside mammography for breast cancer screening.
-  ![MRI]('ml-api\medical_report_overview\img\Brain Tumor.jpg')
+  ![MRI](https://github.com/NishaantKrSingh/healthDiagnosis-HackNITR/blob/main/ml-api/medical_report_overview/img/Brain_tumor.jpg?raw=true)
 
 #### 2.3 CT (Computed Tomography) Scans:
 
@@ -59,7 +55,7 @@ Our project, **Health Diagnostics**, aims to harness the potential of ML and LLM
 - **Cancer Staging**: They help stage cancers, assess tumor size, and identify metastases.
 - **Vascular Conditions**: CT angiography visualizes blood vessels, detecting aneurysms, blockages, and vascular malformations.
 - **Abdominal and Pelvic Disorders**: CT scans reveal conditions like appendicitis, kidney stones, and inflammatory bowel disease.
-  ![CT Scan]('ml-api\medical_report_overview\img\ct.jpg')
+  ![CT Scan](https://github.com/NishaantKrSingh/healthDiagnosis-HackNITR/blob/main/ml-api/medical_report_overview/img/ct.jpg?raw=true)
 
 #### 2.4 Ultrasound:
 
@@ -67,14 +63,14 @@ Our project, **Health Diagnostics**, aims to harness the potential of ML and LLM
 - **Gallstones and Liver Abnormalities**: It detects gallstones, liver cysts, and tumors.
 - **Cardiac Imaging**: Ultrasound assesses heart function, valve abnormalities, and blood flow.
 - **Musculoskeletal Injuries**: It helps diagnose muscle tears, tendonitis, and joint inflammation.
-  ![XUltreasound]('ml-api\medical_report_overview\img\ultrasound.png')
+  ![XUltreasound](https://github.com/NishaantKrSingh/healthDiagnosis-HackNITR/blob/main/ml-api/medical_report_overview/img/ultrasound.png?raw=true)
 
 #### 2.5 Dermatographic Imaging:
 
 - **Skin Disorders**: Dermatographic imaging aids in diagnosing skin conditions, such as rashes, moles, and skin cancers.
 - **Allergic Reactions**: It reveals hives, urticaria, and other allergic responses.
 - **Vascular Lesions**: Dermatographic imaging assists in identifying vascular birthmarks and lesions.
-  ![Dermatographic]('ml-api\medical_report_overview\img\skin_cancer.png')
+  ![Dermatographic](https://github.com/NishaantKrSingh/healthDiagnosis-HackNITR/blob/main/ml-api/medical_report_overview/img/skin_cancer.png?raw=true)
 
 ### 3. Problem Statement:
 
@@ -89,9 +85,9 @@ Our solution, **Health Diagnostics**, offers a comprehensive approach to healthc
 **Technologies Used:**
 
 - **Machine Learning**: TensorFlow for ML model development.
-- **Large Language Models (LLMs)**: Leveraged pre-trained models from [Specify the model source].
-- **Frontend**: [Specify frontend technologies].
-- **Backend**: [Specify backend technologies].
+- **Large Language Models (LLMs)**: Leveraged pre-trained models from Gemenai.
+- **Frontend**: ReactJS.
+- **Backend**: Python-Flask.
 
 ### 6. Implementation Details:
 
@@ -105,10 +101,6 @@ The development of Health Diagnostics presented several challenges, including th
 
 To address these challenges, our team implemented data augmentation techniques for improved model training, optimized algorithms for real-time performance, and integrated interpretability tools to enhance transparency in predictions.
 
-### 9. Results:
-
-The implementation of Health Diagnostics yielded promising results. Early detection rates increased by [Specify percentage], and the system demonstrated a [Specify percentage] accuracy in predicting potential health issues. Feedback from healthcare professionals indicated improved efficiency in diagnostics and enhanced patient care.
-
-### 10. Future Improvement:
+### 9. Future Improvement:
 
 Moving forward, we envision enhancing Health Diagnostics by incorporating
