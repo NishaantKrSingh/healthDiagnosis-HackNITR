@@ -1,6 +1,6 @@
 'use server';
 
-import { connectToDB } from "@/utils/connectDB";
+import { connectToDB } from "@/lib/utils/connectDB";
 import User from "@/models/user";
 
 async function savetodb(profile) {
