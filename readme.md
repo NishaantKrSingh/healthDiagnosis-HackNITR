@@ -86,8 +86,8 @@ Our solution, **Health Diagnostics**, offers a comprehensive approach to healthc
 
 - **Machine Learning**: TensorFlow for ML model development.
 - **Large Language Models (LLMs)**: Leveraged pre-trained models from Gemenai.
-- **Frontend**: [Specify frontend technologies].
-- **Backend**: [Specify backend technologies].
+- **Frontend**: ReactJS.
+- **Backend**: Python-Flask.
 
 ### 6. Implementation Details:
 
