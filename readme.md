@@ -1,7 +1,3 @@
-Certainly! Here's the complete project report:
-
----
-
 # HackNITR Project Report
 
 ## Team Name: **Lapers**
@@ -89,7 +85,7 @@ Our solution, **Health Diagnostics**, offers a comprehensive approach to healthc
 **Technologies Used:**
 
 - **Machine Learning**: TensorFlow for ML model development.
-- **Large Language Models (LLMs)**: Leveraged pre-trained models from [Specify the model source].
+- **Large Language Models (LLMs)**: Leveraged pre-trained models from Gemenai.
 - **Frontend**: [Specify frontend technologies].
 - **Backend**: [Specify backend technologies].
 
@@ -105,10 +101,6 @@ The development of Health Diagnostics presented several challenges, including th
 
 To address these challenges, our team implemented data augmentation techniques for improved model training, optimized algorithms for real-time performance, and integrated interpretability tools to enhance transparency in predictions.
 
-### 9. Results:
-
-The implementation of Health Diagnostics yielded promising results. Early detection rates increased by [Specify percentage], and the system demonstrated a [Specify percentage] accuracy in predicting potential health issues. Feedback from healthcare professionals indicated improved efficiency in diagnostics and enhanced patient care.
-
-### 10. Future Improvement:
+### 9. Future Improvement:
 
 Moving forward, we envision enhancing Health Diagnostics by incorporating
