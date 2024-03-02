@@ -43,7 +43,7 @@ Our project, **Health Diagnostics**, aims to harness the potential of ML and LLM
 - **Fractures and Bone Abnormalities**: X-rays are commonly used to detect fractures, bone tumors, and other skeletal abnormalities.
 - **Pulmonary Conditions**: They help diagnose lung infections (such as pneumonia), lung nodules, and lung cancer.
 - **Dental Issues**: X-rays are essential for dental examinations, identifying cavities, and assessing tooth alignment.
-  ![X-ray](ml-api\medical_report_overview\img\fracture.jpg)
+  ![X-ray]('ml-api\medical_report_overview\img\fracture.jpg')
 
 #### 2.2 MRI (Magnetic Resonance Imaging):
 
@@ -51,7 +51,7 @@ Our project, **Health Diagnostics**, aims to harness the potential of ML and LLM
 - **Brain Tumors and Lesions**: It is valuable for detecting brain tumors, aneurysms, and multiple sclerosis.
 - **Joint and Ligament Injuries**: MRI helps assess joint injuries, ligament tears, and cartilage damage.
 - **Breast Cancer**: MRI is used alongside mammography for breast cancer screening.
-  ![MRI](ml-api\medical_report_overview\img\Brain Tumor.jpg)
+  ![MRI]('ml-api\medical_report_overview\img\Brain Tumor.jpg')
 
 #### 2.3 CT (Computed Tomography) Scans:
 
@@ -59,7 +59,7 @@ Our project, **Health Diagnostics**, aims to harness the potential of ML and LLM
 - **Cancer Staging**: They help stage cancers, assess tumor size, and identify metastases.
 - **Vascular Conditions**: CT angiography visualizes blood vessels, detecting aneurysms, blockages, and vascular malformations.
 - **Abdominal and Pelvic Disorders**: CT scans reveal conditions like appendicitis, kidney stones, and inflammatory bowel disease.
-  ![CT Scan](ml-api\medical_report_overview\img\ct.jpg)
+  ![CT Scan]('ml-api\medical_report_overview\img\ct.jpg')
 
 #### 2.4 Ultrasound:
 
@@ -67,14 +67,14 @@ Our project, **Health Diagnostics**, aims to harness the potential of ML and LLM
 - **Gallstones and Liver Abnormalities**: It detects gallstones, liver cysts, and tumors.
 - **Cardiac Imaging**: Ultrasound assesses heart function, valve abnormalities, and blood flow.
 - **Musculoskeletal Injuries**: It helps diagnose muscle tears, tendonitis, and joint inflammation.
-  ![XUltreasound](ml-api\medical_report_overview\img\ultrasound.png)
+  ![XUltreasound]('ml-api\medical_report_overview\img\ultrasound.png')
 
 #### 2.5 Dermatographic Imaging:
 
 - **Skin Disorders**: Dermatographic imaging aids in diagnosing skin conditions, such as rashes, moles, and skin cancers.
 - **Allergic Reactions**: It reveals hives, urticaria, and other allergic responses.
 - **Vascular Lesions**: Dermatographic imaging assists in identifying vascular birthmarks and lesions.
-  ![Dermatographic](ml-api\medical_report_overview\img\skin_cancer.png)
+  ![Dermatographic]('ml-api\medical_report_overview\img\skin_cancer.png')
 
 ### 3. Problem Statement:
 
@@ -109,6 +109,6 @@ To address these challenges, our team implemented data augmentation techniques f
 
 The implementation of Health Diagnostics yielded promising results. Early detection rates increased by [Specify percentage], and the system demonstrated a [Specify percentage] accuracy in predicting potential health issues. Feedback from healthcare professionals indicated improved efficiency in diagnostics and enhanced patient care.
 
-### 10. Future Improvements:
+### 10. Future Improvement:
 
 Moving forward, we envision enhancing Health Diagnostics by incorporating
