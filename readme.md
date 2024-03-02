@@ -8,7 +8,7 @@
 2. **Nishant Kumar** (Frontend Developer)
 3. **Priyanshu Kushwaha** (Python Developer)
 
-## Project Title: **Health Diagnostics**
+## Project Title: **Self help health diagnosis from images**
 
 ### 1. Introduction:
 
