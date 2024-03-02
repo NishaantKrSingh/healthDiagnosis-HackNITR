@@ -109,6 +109,6 @@ To address these challenges, our team implemented data augmentation techniques f
 
 The implementation of Health Diagnostics yielded promising results. Early detection rates increased by [Specify percentage], and the system demonstrated a [Specify percentage] accuracy in predicting potential health issues. Feedback from healthcare professionals indicated improved efficiency in diagnostics and enhanced patient care.
 
-### 10. Future Improvements:
+### 10. Future Improvement:
 
 Moving forward, we envision enhancing Health Diagnostics by incorporating
