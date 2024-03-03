@@ -96,10 +96,14 @@ Our solution, **Health Diagnostics**, offers a comprehensive approach to healthc
 
 **Technologies Used:**
 
-- **Machine Learning**: TensorFlow for ML model development.
-- **Large Language Models (LLMs)**: Leveraged pre-trained models from Gemenai.
-- **Frontend**: ReactJS.
-- **Backend**: Python-Flask.
+ - **_Frontend_**: ReactJS.
+ - **_Backend_**: Python-Flask.
+ - **_Database_**: MongoDB
+ - **_Authentication_**: Auth0
+ - **_Workflow_**: Orkes Workflow
+ - **_Machine Learning_**: TensorFlow for ML model development.
+ - **_Large Language Models (LLMs)_**: Leveraged pre-trained models from Gemenai.
+ - **_Deployment_**: Replit.
 
 ### 6. Implementation Details:
 
