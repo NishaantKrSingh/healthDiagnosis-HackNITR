@@ -9,7 +9,7 @@
 3. **Priyanshu Kushwaha** (Python Developer)
 
 ## Project Title: **Self help health diagnosis from images**
-## Project Video: https://youtube.com/playlist?list=PLO_viGC1k7SQ7IZCmoh53L-qIuwBwxNhy&si=8in6ypHQGUKzYzkW
+## Project Video: [![Watch the video](https://img.youtube.com/vi/9eqa-ACw7bQ/maxresdefault.jpg)](https://youtu.be/9eqa-ACw7bQ)
 ## project presentaion: https://docs.google.com/presentation/d/1xDJZ_FoKPkb9pTIj48ZyF5etzUwjvPZR/edit?usp=sharing&ouid=110945212765148708114&rtpof=true&sd=true
 
 ### 1. Introduction:
