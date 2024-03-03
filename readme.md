@@ -34,14 +34,14 @@ Our project, **Health Diagnostics**, aims to harness the potential of ML and LLM
 
 ### Technologies Used:
 
-###**Technologies Used:**
-###- **_Frontend_**: ReactJS.
-###- **_Backend_**: Python-Flask.
-###- **_Database_**: MongoDB
-###- **_Authentication_**: Auth0
-###- **_Workflow_**: Orkes Workflow
-###- **_Machine Learning_**: TensorFlow for ML model development.
-###- **_Large Language Models (LLMs)_**: Leveraged pre-trained models from Gemenai.
+### **Technologies Used:**
+### - **_Frontend_**: ReactJS.
+### - **_Backend_**: Python-Flask.
+### - **_Database_**: MongoDB
+### - **_Authentication_**: Auth0
+### - **_Workflow_**: Orkes Workflow
+### - **_Machine Learning_**: TensorFlow for ML model development.
+### - **_Large Language Models (LLMs)_**: Leveraged pre-trained models from Gemenai.
 
 ### 2. Medical Imaging Modalities and Applications:
 
