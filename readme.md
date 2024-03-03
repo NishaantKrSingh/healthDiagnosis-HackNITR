@@ -40,14 +40,14 @@ Our project, **Health Diagnostics**, aims to harness the potential of ML and LLM
 ### - **_Database_**: MongoDB
 ### - **_Authentication_**: Auth0
 ### - **_Workflow_**: Orkes Workflow
-        -Here is the link to the orkes workflow
+### -Here is the link to the orkes workflow
         https://play.orkes.io/workflowDef/healthDiagnosis
 
         
-        - Here are the screenshots of the workflow 
-        ![workflow0](https://github.com/NishaantKrSingh/healthDiagnosis-HackNITR/blob/main/ml-api/medical_report_overview/img/01.png?raw=true)
+### - Here are the screenshots of the workflow 
+![workflow0](https://github.com/NishaantKrSingh/healthDiagnosis-HackNITR/blob/main/ml-api/medical_report_overview/img/01.png?raw=true)
         
-        ![workflow0](https://github.com/NishaantKrSingh/healthDiagnosis-HackNITR/blob/main/ml-api/medical_report_overview/img/02.png?raw=true)
+![workflow0](https://github.com/NishaantKrSingh/healthDiagnosis-HackNITR/blob/main/ml-api/medical_report_overview/img/02.png?raw=true)
 ### - **_Machine Learning_**: TensorFlow for ML model development.
 ### - **_Large Language Models (LLMs)_**: Leveraged pre-trained models from Gemenai.
 ### - **_Deployment_**: Replit.
