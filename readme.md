@@ -42,6 +42,7 @@ Our project, **Health Diagnostics**, aims to harness the potential of ML and LLM
 ### - **_Workflow_**: Orkes Workflow
 ### - **_Machine Learning_**: TensorFlow for ML model development.
 ### - **_Large Language Models (LLMs)_**: Leveraged pre-trained models from Gemenai.
+### - **_Deployment_**: Replit.
 
 ### 2. Medical Imaging Modalities and Applications:
 
