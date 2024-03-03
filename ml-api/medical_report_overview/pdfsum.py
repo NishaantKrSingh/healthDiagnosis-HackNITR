@@ -1,7 +1,7 @@
 import fitz  # PyMuPDF
 
 def extract_text(pdf_path):
-    #pdf_path = "D:\Coding\Hackathon\HackNITR\ml-api\medical_report_overview\Sample-filled-in-MR.pdf"
+    pdf_path = "C:\Users\Strange\Desktop\healthDiagnosis-HackNITR\ml-api\medical_report_overview\Sample-filled-in-MR.pdf"
     text_content = ""
     try:
         # Open the PDF file
@@ -20,9 +20,9 @@ def extract_text(pdf_path):
 
 # Example usage
 
-# text_from_pdf = extract_text_from_pdf()
+text_from_pdf = extract_text()
 
 # # Print or use the extracted text content
-# print(text_from_pdf)
+print(text_from_pdf)
 # with open('readme.txt', "w", encoding="utf-8") as f:
 #     f.write(text_from_pdf)

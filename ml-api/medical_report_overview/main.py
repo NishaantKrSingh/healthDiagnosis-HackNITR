@@ -8,7 +8,7 @@ load_dotenv()
 
 GOOGLE_API_KEY=os.getenv('GOOGLE_API_KEY')
 
-content = extract_text("D:\Coding\Hackathon\HackNITR\ml-api\medical_report_overview\Sample-filled-in-MR.pdf")
+content = extract_text("C:\Users\Strange\Desktop\healthDiagnosis-HackNITR\ml-api\medical_report_overview\Sample-filled-in-MR.pdf")
 
 generation_config = {
   "candidate_count": 1,
